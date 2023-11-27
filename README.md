@@ -20,3 +20,10 @@ This mobile-friendly Progressive Web Application (PWA) serves as a versatile sho
 4. **Accessing the App:**
    - Open the deployed site on your mobile device.
    - Add the web app to your home screen for an app-like experience.
+
+
+## Deployment Link:
+
+https://voluble-daifuku-277514.netlify.app/
+
+**Note:** Utilizing this deployment link will result in the addition of items to my database. Therefore, kindly create your own Firebase project and deploy the respective project. Please let me know if you have any further questions or concerns.
